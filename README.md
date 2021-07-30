@@ -35,11 +35,11 @@ From a financial standpoint users could pay a nominal monthly or yearly subscrip
 The source code of this project is written in **`HTML/CSS/JS`**. So, you do not require anything extra to run this project.
 
 # Tech Stack
-Tensorflow
-ml5.js
-html
-css
-js
+- Tensorflow
+- ml5.js
+- HTML
+- CSS
+- JavaScript
 
 
 # Installation Guide to Run Locally
