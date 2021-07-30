@@ -6,8 +6,8 @@
   <img src="imgs/Lotus.png" height="200px"></img>
 </p>
 
-#### Link for [demo]() 
-[![Generic badge](https://img.shields.io/badge/view-video-orange)](https://drive.google.com/drive/folders/1O4r344jpLkHPgaRsTAsxErdI_8OSG8bp)
+#### Link for [demo](http://workin.thamanmuthappa.codes/) 
+[![Generic badge](https://img.shields.io/badge/view-video-orange)]()
 
 # Introduction
 
