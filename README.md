@@ -53,7 +53,7 @@ $ git clone https://github.com/Thamanmuthappa/WorkIN.git
 
 <img width="960" alt="Screenshot 2021-07-31 054405" src="https://user-images.githubusercontent.com/76126020/127722677-a01e7ee6-83a3-487f-b21f-7a397a1d20d7.png">
 <img width="960" alt="Screenshot 2021-07-31 054426" src="https://user-images.githubusercontent.com/76126020/127722698-8fde10a9-4aea-4ccd-8689-bf0f4fd94bbb.png">
-<img width="960" alt="Screenshot 2021-07-31 054744" src="https://user-images.githubusercontent.com/76126020/127722726-94e05e45-f2e3-490e-8b42-10076268826e.png">
+<img width="960" alt="Screenshot 2021-07-31 104902" src="https://user-images.githubusercontent.com/76126020/127729627-aad03c04-47f0-49b5-8ee4-5920fae58721.png">
 
 
 
