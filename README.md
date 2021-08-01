@@ -6,7 +6,6 @@
   <img src="imgs/Lotus.png" height="200px"></img>
 </p>
 
-#### Presentation [Link](https://www.canva.com/design/DAEfL1e3wG8/4JdmjxIdJj6K50riFGY-6Q/view?utm_content=DAEfL1e3wG8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 
 #### Link for [demo](http://workin.thamanmuthappa.codes/) 
 [![Generic badge](https://img.shields.io/badge/view-video-orange)](https://youtu.be/MXwb6MxPIEs)
 
@@ -48,13 +47,6 @@ The source code of this project is written in **`HTML/CSS/JS`**. So, you do not 
 ```bash
 $ git clone https://github.com/Thamanmuthappa/WorkIN.git
 ```
-
-# Images
-
-<img width="960" alt="Screenshot 2021-07-31 054405" src="https://user-images.githubusercontent.com/76126020/127722677-a01e7ee6-83a3-487f-b21f-7a397a1d20d7.png">
-<img width="960" alt="Screenshot 2021-07-31 054426" src="https://user-images.githubusercontent.com/76126020/127722698-8fde10a9-4aea-4ccd-8689-bf0f4fd94bbb.png">
-<img width="960" alt="Screenshot 2021-07-31 104902" src="https://user-images.githubusercontent.com/76126020/127729627-aad03c04-47f0-49b5-8ee4-5920fae58721.png">
-
 
 
 # Contributors
